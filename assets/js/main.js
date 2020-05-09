@@ -26,7 +26,7 @@ jQuery(document).ready(function($) {
   $("#rss-feeds").rss(
 
     //Change this to your own rss feeds
-    "http://dcampogiani.github.io/blog/feed.xml",
+    "http://danielecampogiani.com/blog/feed.xml",
 
     {
       // how many entries do you want?
