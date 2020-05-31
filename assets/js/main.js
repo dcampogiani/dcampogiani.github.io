@@ -29,6 +29,9 @@ jQuery(document).ready(function($) {
     "https://danielecampogiani.com/blog/feed.xml",
 
     {
+      // will request the API via https
+      ssl: true,
+
       // how many entries do you want?
       // default: 4
       // valid values: any integer
